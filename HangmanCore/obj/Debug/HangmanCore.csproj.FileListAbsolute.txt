@@ -1,0 +1,10 @@
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanCore\bin\Debug\HangmanCore.dll
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanCore\bin\Debug\HangmanCore.pdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanCore\obj\Debug\HangmanCore.dll
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanCore\obj\Debug\HangmanCore.pdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanCore\obj\Debug\HangmanCore.csprojResolveAssemblyReference.cache
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanCore\bin\Debug\HangmanCore.dll
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanCore\bin\Debug\HangmanCore.pdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanCore\obj\Debug\HangmanCore.csprojResolveAssemblyReference.cache
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanCore\obj\Debug\HangmanCore.dll
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanCore\obj\Debug\HangmanCore.pdb

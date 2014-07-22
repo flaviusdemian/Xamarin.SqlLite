@@ -1,0 +1,19 @@
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\HangmanIOS.exe
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\HangmanIOS.pdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\HangmanCore.dll
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\SQLite.dll
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\HangmanCore.pdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\HangmanCore.dll.mdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanIOS\obj\iPhoneSimulator\Debug\HangmanIOS.csprojResolveAssemblyReference.cache
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanIOS\obj\iPhoneSimulator\Debug\HangmanIOS.exe
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\HangmanIOS\obj\iPhoneSimulator\Debug\HangmanIOS.pdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\HangmanIOS.exe
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\HangmanIOS.pdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\Google.Plus.dll
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\HangmanCore.dll
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\SQLite.dll
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\HangmanCore.pdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanIOS\bin\iPhoneSimulator\Debug\HangmanCore.dll.mdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanIOS\obj\iPhoneSimulator\Debug\HangmanIOS.csprojResolveAssemblyReference.cache
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanIOS\obj\iPhoneSimulator\Debug\HangmanIOS.exe
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\HangmanIOS\obj\iPhoneSimulator\Debug\HangmanIOS.pdb

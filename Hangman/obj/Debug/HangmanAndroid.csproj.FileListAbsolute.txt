@@ -1,0 +1,41 @@
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\bin\Debug\Hangman.dll
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\bin\Debug\Hangman.dll.mdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\bin\Debug\Hangman.Hangman.apk
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\bin\Debug\Hangman.Hangman-Signed.apk
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\bin\Debug\HangmanCore.dll
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\bin\Debug\SQLite.dll
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\bin\Debug\HangmanCore.pdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\bin\Debug\HangmanCore.dll.mdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\bin\Debug\SQLite.pdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\bin\Debug\SQLite.dll.mdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\obj\Debug\HangmanAndroid.csprojResolveAssemblyReference.cache
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\obj\Debug\Hangman.dll
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\obj\Debug\android\bin\Hangman.Hangman.apk
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\obj\Debug\res\layout\main.xml
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\obj\Debug\res\values\strings.xml
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\obj\Debug\res\drawable\icon.png
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\obj\Debug\R.cs.flag
+C:\Users\Flavius-Radu\Documents\Visual Studio 2012\Projects\Hangman\Hangman\obj\Debug\uploadflags.txt
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\bin\Debug\Hangman.dll
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\bin\Debug\Hangman.dll.mdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\bin\Debug\com.fundora.com.apk
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\bin\Debug\com.fundora.com-Signed.apk
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\bin\Debug\HangmanCore.dll
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\bin\Debug\SQLite.dll
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\bin\Debug\HangmanCore.pdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\bin\Debug\HangmanCore.dll.mdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\bin\Debug\SQLite.pdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\bin\Debug\SQLite.dll.mdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\obj\Debug\HangmanAndroid.csprojResolveAssemblyReference.cache
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\obj\Debug\Hangman.dll
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\obj\Debug\android\bin\com.fundora.com.apk
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\obj\Debug\res\layout\main.xml
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\obj\Debug\res\values\strings.xml
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\obj\Debug\res\drawable\icon.png
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\obj\Debug\res\layout\login.xml
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\obj\Debug\R.cs.flag
+C:\Users\Flavius-Radu\Desktop\Hangman\Hangman\Hangman\obj\Debug\uploadflags.txt
